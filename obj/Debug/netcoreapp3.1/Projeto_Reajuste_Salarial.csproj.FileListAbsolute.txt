@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\bin\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.exe
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\bin\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\bin\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\bin\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\bin\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.dll
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\bin\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.dll
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.genruntimeconfig.cache
