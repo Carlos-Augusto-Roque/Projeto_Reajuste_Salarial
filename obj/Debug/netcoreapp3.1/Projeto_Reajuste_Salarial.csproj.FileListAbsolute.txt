@@ -11,3 +11,16 @@ C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3
 C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.dll
 C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.pdb
 C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.genruntimeconfig.cache
+C:\Users\dev\Desktop\exercicios\Projeto_Reajuste_Salarial\bin\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.exe
+C:\Users\dev\Desktop\exercicios\Projeto_Reajuste_Salarial\bin\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.deps.json
+C:\Users\dev\Desktop\exercicios\Projeto_Reajuste_Salarial\bin\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.runtimeconfig.json
+C:\Users\dev\Desktop\exercicios\Projeto_Reajuste_Salarial\bin\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.runtimeconfig.dev.json
+C:\Users\dev\Desktop\exercicios\Projeto_Reajuste_Salarial\bin\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.dll
+C:\Users\dev\Desktop\exercicios\Projeto_Reajuste_Salarial\bin\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.pdb
+C:\Users\dev\Desktop\exercicios\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\exercicios\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\exercicios\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.AssemblyInfo.cs
+C:\Users\dev\Desktop\exercicios\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\exercicios\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.dll
+C:\Users\dev\Desktop\exercicios\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.pdb
+C:\Users\dev\Desktop\exercicios\Projeto_Reajuste_Salarial\obj\Debug\netcoreapp3.1\Projeto_Reajuste_Salarial.genruntimeconfig.cache

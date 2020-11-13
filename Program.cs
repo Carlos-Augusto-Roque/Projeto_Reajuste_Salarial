@@ -8,25 +8,30 @@ namespace Projeto_Reajuste_Salarial
         {
 
             //variáveis
-            decimal salario, salarioReajustado;
+            decimal salario, salarioReajustado, reajuste =0;
 
             //entrada de dados
             Console.WriteLine("Digite o Salário atual");
             salario = decimal.Parse(Console.ReadLine());
 
-            //processamento
-            
-            salarioReajustado = (salario + (30*salario)/100);
-            
+           
+         
 
             if(salario<500){ 
-                //valor verdadeiro
-                Console.WriteLine("O Salário Reajustado é: "+salarioReajustado+ " Reais ");
+               
+                Console.WriteLine("insira o reajuste percentual");
+                reajuste = decimal.Parse(Console.ReadLine());
+                 //processamento
+                salarioReajustado = (reajuste*salario)/100;
+                
+                // Console.WriteLine("O valor do reajuste foi de: " +reajuste+ " Reais ");
+                Console.WriteLine("O valor do reajuste foi de: " +salarioReajustado+ " Reais ");
             }
             else{
                 //valor falso
                 Console.WriteLine("O funcionário não tem direito ao aumento");
             }
+
         }
     }
 }
